@@ -51,6 +51,8 @@
     "@dcloudio/uni-mp-toutiao": "3.0.0-3070920230324001",
     "@dcloudio/uni-mp-weixin": "3.0.0-3070920230324001",
     "@dcloudio/uni-quickapp-webview": "3.0.0-3070920230324001",
+    "pinia": "^2.0.34",
+    "vant": "^4.1.2",
     "vue": "^3.2.45",
     "vue-i18n": "^9.1.9"
   },
@@ -60,6 +62,7 @@
     "@dcloudio/uni-cli-shared": "3.0.0-3070920230324001",
     "@dcloudio/uni-stacktracey": "3.0.0-3070920230324001",
     "@dcloudio/vite-plugin-uni": "3.0.0-3070920230324001",
+    "unplugin-vue-components": "^0.24.1",
     "vite": "4.1.4"
   }
 }
